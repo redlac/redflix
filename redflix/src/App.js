@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Row from './Row';
 import requests from './requests';
@@ -128,7 +127,7 @@ function App() {
     <div className="app">
       <Nav />
       <Banner />
-      <Row title="NETFLIX ORIGINALS"
+      <Row title="REDFLIX ORIGINALS"
         fetchUrl={requests.fetchNetflix0riginals}
         isLargeRow
         trailerUrl={trailerUrl1}

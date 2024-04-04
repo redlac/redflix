@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "redflix-5c823"
-  }
+    "default": "redflix-v2",
+    "production": "redflix-v2"
+  },
+  "targets": {},
+  "etags": {}
 }
