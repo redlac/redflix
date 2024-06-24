@@ -2,7 +2,7 @@
 ## Netflix clone
 This project replicates some of the functionality of Netflix.com. Click on movies and shows to view trailers. 
 
-View it here: https://redflix-5c823.web.app/
+View it here: https://redflix-tau.vercel.app/
 
 This app uses the TMDB API to retrieve publicly available movie and TV show information. It is currently optimized for the Chrome browser.
 
